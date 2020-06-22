@@ -4,4 +4,5 @@ int main()
 {
 	std::cout << "Hello, Git!" << std::endl;
 	std::cout << "Master" << std::endl;
+	std::cout << "Test for merge" << std::endl;
 }
